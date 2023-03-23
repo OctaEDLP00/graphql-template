@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "pflannery.vscode-versionlens",
+    "esbenp.prettier-vscode",
+    "usernamehw.errorlens",
+    "wix.vscode-import-cost",
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-spanish",
+    "mquandalle.graphql",
+    "apollographql.vscode-apollo"
+  ]
+}
