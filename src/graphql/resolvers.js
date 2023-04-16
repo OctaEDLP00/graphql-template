@@ -1,5 +1,5 @@
 /*
-const book = [
+const books = [
   {
     name: 'Eloquent JavaScript',
     author: 'Marijn Haverbeke'
@@ -14,10 +14,7 @@ const book = [
 export const resolvers = {
   // endopints for the api
   // Example:
-  // Query: {
-  //   books: () => book
-  // }
   Query: {
-    // books: () => book
+    // books: () => books
   }
 }

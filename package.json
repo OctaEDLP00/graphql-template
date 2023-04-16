@@ -1,7 +1,7 @@
 {
   "name": "graphql-template",
   "version": "1.0.0",
-  "description": "Template of GraphQL made by OctaEDLP00",
+  "description": "",
   "type": "module",
   "main": "src/main.js",
   "license": "MIT",
@@ -9,7 +9,7 @@
     "graphql": "node src/main.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "OctaEDLP00 <octavio.pincha@gmail.com>",
   "dependencies": {
     "@apollo/server": "4.5.0",
     "graphql": "16.6.0"
