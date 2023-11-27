@@ -1,9 +1,4 @@
-const RULES = {
-  OFF: 'off',
-  ON: 'on',
-  ERROR: 'error',
-  WARN: 'warn'
-}
+const { RULES } = require('./rules.js');
 
 module.exports = {
   extends: [
